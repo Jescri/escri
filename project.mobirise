@@ -27,7 +27,9 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#2e2e2e"
+      ]
     },
     "versionFirst": "4.6.2",
     "uniqCompNum": 31,
