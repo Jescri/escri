@@ -2471,16 +2471,17 @@ body {
     width: 100% !important;
   }
 }
-.cid-qJ06mRBESU {
+.cid-qJ5B6qe5S7 {
   padding-top: 30px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #efefef;
+  background: linear-gradient(0deg, #efefef, #ffffff);
 }
-.cid-qJ06mRBESU .video-block {
+.cid-qJ5B6qe5S7 .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-qJ06mRBESU .video-block {
+  .cid-qJ5B6qe5S7 .video-block {
     width: 100% !important;
   }
 }
