@@ -1350,7 +1350,11 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-subtitle": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#465052"
+            },
+            "H2": {
+              "color": "#465052"
             }
           },
           "_name": "content5",
