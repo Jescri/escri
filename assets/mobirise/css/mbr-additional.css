@@ -1774,6 +1774,32 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-qLskAvbvth {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #465052;
+}
+.cid-qLybIlOnAJ {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qLybIlOnAJ .image-block {
+  margin: auto;
+}
+.cid-qLybIlOnAJ figcaption {
+  position: relative;
+}
+.cid-qLybIlOnAJ figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qLybIlOnAJ .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qIBmGX2NXY {
   padding-top: 75px;
   padding-bottom: 75px;
